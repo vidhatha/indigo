@@ -5,4 +5,4 @@ Inspired by the theme [Indigo Minimalist Jekyll Template](https://github.com/ser
 ---
 ## License
 
-[MIT](https://kopplin.mit-license.org/) License © Sérgio Kopplin
+[MIT](https://github.com/vidhatha/vidhatha.github.io/blob/gh-pages/LICENSE)
