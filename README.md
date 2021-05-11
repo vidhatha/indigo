@@ -4,6 +4,7 @@ Inspired by the theme [Indigo Minimalist Jekyll Template](https://github.com/ser
 
 ### Customizations
 - Added customizations to the header as described here [Build a Blog with GitHub - Part 2](http://www.artiannaswamy.com/build-a-github-blog-part-2#different-headers)
+- Added License File
 
 ---
 ## License
